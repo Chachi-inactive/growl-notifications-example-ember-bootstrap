@@ -1,0 +1,11 @@
+{
+  "name": "emberjs-starter-kit",
+  "version": "1.0.0-rc.7",
+  "dependencies": {
+    "ember": "~1.6.1",
+    "bootstrap": "~3.2.0",
+    "ember-addons.bs_for_ember": "~0.7.0",
+    "font-awesome": "~4.1.0"
+  },
+  "devDependencies": {}
+}
